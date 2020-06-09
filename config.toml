@@ -1,6 +1,6 @@
 DefaultContentLanguage = "es"
 author = "Roberto Rodríguez"
-baseURL = "https://rrodriguze.github.com/"
+baseURL = "https://musing-joliot-60e334.netlify.app/"
 copyright = "Copyright © 2020, Steve Francia and the Hugo Authors; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
